@@ -10,4 +10,4 @@
   "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
 }
 
-// DevContainer Reference: https://code.visualstudio.com/docs/remote/devcontainerjson-reference
+// DevContaaainer Reference: https://code.visualstudio.com/docs/remote/devcontainerjson-reference
